@@ -1,1 +1,3 @@
 console.writeline("hello wold");
+console.writeline("hello wold");
+console.writeline("hello wold");
